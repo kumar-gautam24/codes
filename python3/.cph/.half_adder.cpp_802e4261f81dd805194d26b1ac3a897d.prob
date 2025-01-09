@@ -1,0 +1,1 @@
+{"name":"Local: half_adder","url":"f:\\code\\python\\half_adder.cpp","tests":[{"id":1720114689999,"input":"5 -7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\code\\python\\half_adder.cpp","group":"local","local":true}

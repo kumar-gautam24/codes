@@ -1,0 +1,1 @@
+{"name":"Local: binarystring","url":"f:\\code\\python\\binarystring.cpp","tests":[{"id":1720244481746,"input":"01001110001000011","output":"0011011"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\code\\python\\binarystring.cpp","group":"local","local":true}

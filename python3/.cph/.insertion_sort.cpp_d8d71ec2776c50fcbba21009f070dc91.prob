@@ -1,0 +1,1 @@
+{"name":"Local: insertion_sort","url":"f:\\code\\python\\insertion_sort.cpp","tests":[{"id":1717136832990,"input":"7\n14 9 15 12 6 8 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\code\\python\\insertion_sort.cpp","group":"local","local":true}
