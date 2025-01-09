@@ -18,4 +18,5 @@ extension StringExtension on String {
   // also using this on object , dart expilcity used this on the string object 
   // Explicitly using 'this' inside the method
   String removeSpaceWithThis() => this.replaceAll(' ', '');
+  // this is not passsed asr parameters;
 }
