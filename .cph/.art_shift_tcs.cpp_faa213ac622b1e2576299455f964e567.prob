@@ -1,0 +1,1 @@
+{"name":"Local: art_shift_tcs","url":"f:\\code\\art_shift_tcs.cpp","tests":[{"id":1702063734694,"input":"10\n\nP D S D P H S D H P","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\code\\art_shift_tcs.cpp","group":"local","local":true}

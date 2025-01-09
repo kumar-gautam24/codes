@@ -1,0 +1,4 @@
+{
+    "shell_cmd": ["dart", "$file"],
+    "selector": "source.dart"
+}

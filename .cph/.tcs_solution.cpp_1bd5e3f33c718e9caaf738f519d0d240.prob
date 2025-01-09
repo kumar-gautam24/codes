@@ -1,0 +1,1 @@
+{"name":"Local: tcs_solution","url":"f:\\code\\tcs_solution.cpp","tests":[{"id":1702054164397,"input":"0 0\n\n 0 4\n\n0 0","output":"Krishna 160"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\code\\tcs_solution.cpp","group":"local","local":true}

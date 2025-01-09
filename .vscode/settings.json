@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.vscode": true,
+    "**/*.exe": true
+  },
+  "editor.minimap.autohide": false,
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "xlocale": "cpp",
+    "xstring": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp"
+  }
+}

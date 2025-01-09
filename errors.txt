@@ -1,0 +1,3 @@
+F:\code\hello_world.cpp:5:1: error: expected ';' before 'int'
+ int main(){
+ ^~~

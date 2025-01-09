@@ -1,0 +1,1 @@
+{"name":"Local: checkPermuatation","url":"f:\\code\\checkPermuatation.cpp","tests":[{"id":1690608716025,"input":"1\nab  aaabbbc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\code\\checkPermuatation.cpp","group":"local","local":true}
